@@ -1,7 +1,7 @@
 # Qreactive
 
 Old uni group project for a QR code website using NodeJS uploading this just incase I lost it
-
+I also added the Report so you don't need to read the code
 
 Run backend server(localhost:5000):
 
